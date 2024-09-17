@@ -7,3 +7,5 @@ git config user.email "Your GitHub Email"
 git add .
 git commit -m "Your Commit Comment"
 git push
+
+\\This line was added from browser
