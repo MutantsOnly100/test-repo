@@ -9,3 +9,5 @@ git commit -m "Your Commit Comment"
 git push
 
 \\This line was added from browser
+git fetch
+git pull
